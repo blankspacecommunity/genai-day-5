@@ -22,6 +22,8 @@ pip install google-generativeai
 There are 2 python program files in your directory (folder). Open `calculation.py` and start reading, follow the instructions to complete the program.
 
 Try running the program using the following command, Expect some errors, because the program is incomplete, try to read and understand errors (in terminal) and try to resolve it.
+
+Once you made changes, TYPE the following command into your terminal and hit enter to run the `calculation.py` python prorgram.
 ```
 python calculation.py
 ```
