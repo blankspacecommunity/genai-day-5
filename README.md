@@ -5,9 +5,14 @@ Today we are going to learn about `Function Calling` in GLLMs (Generative Large 
 # Step 0 (Cloning Repository)
 What you are seeing is called github repository, What you reading is a `README.md` file in the repository which you'll find in almost all repostiroies across github. Right now we are going to clone (download) this repository into your directory (folder). For this you need to have `git` installed, but don't worry if you are using github codespace you have it pre-installed. So go ahead, copy paste the following command into your VS code terminal and hit enter.
 
-If everything is alright you will see 2 python programs in your directory (folder).
 ```
 git clone https://github.com/blankspacecommunity/genai-day-5.git
+```
+
+if everything is alright, you'll see a folder named `genai-day-5`. Inside the folder, you'll see 3 files, 2 python programs and a README.md file (which is same as this). We have to run this program right? so we have to enter to that folder. We use the `cd` (meaning change directory) command to navigate into the folder. Type the following command into your terminal and hit enter.
+
+```
+cd genai-day-5
 ```
 
 # Step 1 (Install Packages)
